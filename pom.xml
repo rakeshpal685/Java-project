@@ -25,6 +25,6 @@
     </dependencies>
 
     <build>
-        <finalName>RandomName</finalName>
+        <finalName>MyJarFile</finalName>
     </build>
 </project>
